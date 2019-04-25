@@ -1,6 +1,6 @@
 var mongoose = require("mongoose");
 mongoose.set('debug', true);
-mongoose.connect('mongodb://localhost/todos');
+mongoose.connect('mongodb://ddy:password123@ds145786.mlab.com:45786/todos');
 
 mongoose.Promise = Promise;
 
