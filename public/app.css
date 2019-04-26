@@ -2,7 +2,7 @@
  
 body {
 	font-family: 'Montserrat', sans-serif;
-	background: #ecf0f1;
+	background: #fff4e3;
 }
 
 /*****************************HEADER STYLES*****************************/
@@ -13,13 +13,13 @@ header h1 {
 	font-size: 64px;
 	font-weight: 300;
 	margin: 80px 0 25px;
-	color: #2c3e50;
+	color: #ff7657;
 }
 header h1 span {
 	font-weight: 700;
 }
 header h2 {
-	color: #bdc3c7;
+	color: #ff7657;
 	font-weight:300;
 }
 /*****************************FORM STYLES*****************************/
@@ -34,11 +34,11 @@ header h2 {
 	height: 60px;
 	background: none;
 	border: none;
-	border-bottom: 1px solid #34495e;
+	border-bottom: 1px solid #5d5d5a;
 	outline: none;
 	font: 300 28px 'Ubuntu', sans-serif;
 	padding: 20px;
-	color: #34495e;
+	color: #5d5d5a;
 }
 
 /*****************************LIST STYLES*****************************/
@@ -52,11 +52,11 @@ header h2 {
 	line-height: 60px;
 	font-size: 20px;
 	padding: 0 20px;
-	color: #34495e;
+	color: #1cb3c8;
 	transition: all .3s ease;
 }
 .task:hover {
-	background: rgba(0, 0, 0, .02);
+	background: rgba(243, 198, 156, 0.644);
 	cursor: pointer;
 }
 
